@@ -1,3 +1,3 @@
 # etaletovic
 
-I like .Net, Lua and Swift.
+Hey there 👋, I'm a .NET developer with a focus on building solid, high-performance desktop applications 💻. My specialties include C#, WPF and the .NET framework, and I'm always up for a challenge when it comes to creating something new 💡. I focus on creating clean, maintainable code that makes sense, both for the computer and for the developer maintaining it 🛠️. Occasionally, I also enjoy coding in Swift for iOS app development 📱. You can find some of my projects on my GitHub profile. If you have any question or if you're interested in seeing more of my work, feel free to reach out to me 📩.
